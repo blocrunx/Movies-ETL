@@ -1,0 +1,30 @@
+List comprehensions:
+
+[expression for element in source_list if filter_expression]
+
+
+Mandarin
+Simplified Chinese
+Traditional Chinese
+Hanyu Pinyin
+Bopomofo
+Gwoyeu Romatzyh
+ Wade–Giles
+ IPA
+ Yale Romanization
+ Jyutping'
+ Hokkien POJ
+French
+Hangul
+Revised Romanization
+ McCune–Reischauer
+Japanese
+ Hepburn
+Cantonese
+Chinese
+Yiddish
+Arabic
+Romanized
+Russian
+Hebrew
+Polish
