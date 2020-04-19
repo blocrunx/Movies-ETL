@@ -1,6 +1,8 @@
 Asumption: load Json as json file and csv's we'll read in as dataframes
 Assumption 1: although the process is automated, the plots will still be useful for debugging and documentation so we will save the images into an img folder
 Assumption 2: data file entries are static and not updated, this allows for more precise error checking
+Assumption : adult film category should be dropped from hackathon data.
+Assumption: 
 
 
 
